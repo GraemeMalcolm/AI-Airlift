@@ -1,4 +1,4 @@
-# AI Airlift - Deep Learning for Computer Vision
+# AI Airlift - Image Classification with Deep Learning
 
 Hello and welcome to this lab on computer vision.
 
