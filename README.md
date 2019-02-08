@@ -4,7 +4,7 @@ Hello and welcome to this lab on computer vision.
 
 In this lab, you'll explore some tools and techniques for creating and deploying deep learning predictive models for image classification.
 
-> **Note**:To complete this lab, you will need a Microsoft Azure subscription. If you don't already have one, as a Microsoft employee, you can sign into <a href="https://visualstudio.microsoft.com" target="_blank">Visual Studio Online</a> using your corporate credentials, view your profile, and use your benefits to activate a free Azure subscription with $150 monthly credit.
+> **Note**:To complete this lab, you will need a Microsoft Azure subscription. If you don't already have one, sin up for a free trial at https://azure.microsoft.com/en-us/free.
 
 ## Exercises:
 
