@@ -9,6 +9,6 @@ In this lab, you'll explore some tools and techniques for creating and deploying
 ## Exercises:
 
 * [Exercise 1: Exploring Images](Exercise1.md)
-* [Exercise 2: Training an Image CLassifier](Exercise2.md)
+* [Exercise 2: Training an Image Classifier](Exercise2.md)
 * [Exercise 3: Deploying a classification model](Exercise3.md)
 * [Exercise 4 (if time permits): Transfer Learning](Exercise4.md)
